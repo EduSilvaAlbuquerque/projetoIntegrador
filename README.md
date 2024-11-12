@@ -37,22 +37,26 @@ A plataforma centralizará todas as informações relevantes, assegurando segura
 ## Caso de Uso 1: Coodernador
 Cenário Principal: Cadastro de Coodernador
 
-![Coordenadores](https://github.com/user-attachments/assets/29c716ff-fc42-4bd4-a786-e52c107bdb82)
+![Coordenadores](https://github.com/user-attachments/assets/6fb8d700-c5ad-4c07-a878-1ae67b0f13c0)
+
 
 ## Caso de Uso 2: Professor
-Cenário Principal: Criação do Plano de Aula
-
-![Gerenciamento de aulas](https://github.com/user-attachments/assets/239711fb-c727-4ed0-b19a-9a0b075991f5)
-
-## Caso de Uso 3: Plano de Aula
 Cenário Principal: Gerenciamento de Aula
 
-![Plano de aula](https://github.com/user-attachments/assets/73a5df3b-ac25-4a34-9b60-ef5631a33370)
+![Gerenciamento de aulas](https://github.com/user-attachments/assets/ea9da268-89b3-458b-be6c-19459f71b006)
+
+
+## Caso de Uso 3: Plano de Aula
+Cenário Principal: Criação do Plano de Aula
+
+![Plano de aula](https://github.com/user-attachments/assets/245eb30e-3601-4383-be00-c3ff2b983a3b)
+
 
 ## Caso de Uso 4: Alunos
-Cenário Principal: Cadastro de Aluno
+Cenário Principal: Cadastro do Aluno
 
-![Cadastro de aluno](https://github.com/user-attachments/assets/325e93fc-4896-4643-9bce-6525ae39a777)
+![Cadastro de aluno](https://github.com/user-attachments/assets/aa41e1f4-f1a7-4406-bbe1-b1912c2fd7fc)
+
 
 
 

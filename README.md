@@ -1,4 +1,4 @@
-# Projeto Integrador: Desenvolvimento de Sistema Orientado a Objetos
+# Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 Trabalho para aprovação em disciplina do Professor Enoque Felipe dos Santos Leal.
 Serviço Nacional de Aprendizagem Comercial (SENAC)
 Curso de Tecnologia em Analise e Desenvolvimento de Sistemas

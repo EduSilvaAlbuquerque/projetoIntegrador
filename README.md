@@ -36,24 +36,19 @@ A plataforma centralizará todas as informações relevantes, assegurando segura
 # Protótipo de Baixo Nível
 
 ### Caso de Uso 1: Coodernador
-**Cenário Principal:** Cadastro de Coodernador
-
 ![Coordenadores](https://github.com/user-attachments/assets/6fb8d700-c5ad-4c07-a878-1ae67b0f13c0)
 
 
 ### Caso de Uso 2: Professor
-**Cenário Principal:** Gerenciamento de Aula
 
 ![Gerenciamento de aulas](https://github.com/user-attachments/assets/ea9da268-89b3-458b-be6c-19459f71b006)
 
 
 ### Caso de Uso 3: Plano de Aula
-**Cenário Principal:** Criação do Plano de Aula
 
 ![Plano de aula](https://github.com/user-attachments/assets/245eb30e-3601-4383-be00-c3ff2b983a3b)
 
 
 ### Caso de Uso 4: Alunos
-**Cenário Principal:** Cadastro do Aluno
 
 ![Cadastro de aluno](https://github.com/user-attachments/assets/aa41e1f4-f1a7-4406-bbe1-b1912c2fd7fc)

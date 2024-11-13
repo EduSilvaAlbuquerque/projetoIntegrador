@@ -25,7 +25,7 @@ A plataforma centralizará todas as informações relevantes, assegurando segura
 - Contribuir para a melhoria dos processos educacionais e administrativos.
 
 ## Diagramas
-## Diagrama Caso de Uso
+### Diagrama Caso de Uso
 
 ![Diagram de Caso de Uso](https://github.com/user-attachments/assets/d627284a-74f2-4ce9-98b8-ff5d227207a0)
 
@@ -33,7 +33,7 @@ A plataforma centralizará todas as informações relevantes, assegurando segura
 
 ![Diagrama de Classes](https://github.com/user-attachments/assets/23d38895-c060-4331-b866-25966853be2e)
 
-# Protótipo de Baixo Nível
+## Protótipo de Baixo Nível
 
 ### Caso de Uso 1: Coodernador
 ![Coordenadores](https://github.com/user-attachments/assets/6fb8d700-c5ad-4c07-a878-1ae67b0f13c0)

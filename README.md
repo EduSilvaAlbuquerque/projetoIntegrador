@@ -49,6 +49,7 @@ A plataforma centralizará todas as informações relevantes, assegurando segura
 ![Plano de aula](https://github.com/user-attachments/assets/245eb30e-3601-4383-be00-c3ff2b983a3b)
 
 
+
 ### Caso de Uso 4: Alunos
 
 ![Cadastro de aluno](https://github.com/user-attachments/assets/aa41e1f4-f1a7-4406-bbe1-b1912c2fd7fc)
